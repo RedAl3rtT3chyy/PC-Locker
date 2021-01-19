@@ -1,0 +1,19 @@
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.vbprojAssemblyReference.cache
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy_s_PC_Locker.Form2.resources
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.vbproj.GenerateResource.cache
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.AssemblyInfoInputs.cache
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.AssemblyInfo.vb
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.vbproj.CoreCompileInputs.cache
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\T3chyy's PC Locker.exe
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\T3chyy's PC Locker.deps.json
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\T3chyy's PC Locker.runtimeconfig.json
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\T3chyy's PC Locker.runtimeconfig.dev.json
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\T3chyy's PC Locker.dll
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\ref\T3chyy's PC Locker.dll
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\bin\Debug\net5.0-windows\T3chyy's PC Locker.pdb
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.dll
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\ref\T3chyy's PC Locker.dll
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.pdb
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy's PC Locker.genruntimeconfig.cache
+C:\Users\beary\source\repos\T3chyy's PC Locker\T3chyy's PC Locker\obj\Debug\net5.0-windows\T3chyy_s_PC_Locker.Form1.resources
