@@ -1,6 +1,8 @@
-﻿Imports Microsoft.Win32
+﻿''Coded by T3chyy
+Imports Microsoft.Win32
 
 Public Class Form2
+    ''Disables Alt-F4
     Protected Overrides ReadOnly Property CreateParams() As CreateParams
         Get
             Dim param As CreateParams = MyBase.CreateParams
@@ -9,6 +11,7 @@ Public Class Form2
         End Get
     End Property
     Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ''Disables Task Manager Upon Loading Lock Screen
         Dim systemRegistry As RegistryKey =
         Registry.CurrentUser.CreateSubKey(“Software\Microsoft\Windows\CurrentVersion\Policies\System”)
         systemRegistry.SetValue(“DisableTaskMgr”, 1)
@@ -18,6 +21,7 @@ Public Class Form2
 
     Private Sub Unlock_Click(sender As Object, e As EventArgs) Handles Unlock.Click
         If TextBox1.Text = Form1.setPassBox.Text Then
+            ''Reenables Task Manager and exits.
             MsgBox("Correct Password/PIN! Press OK to close.", 0 + 64, "T3chyy's PC Locker")
             Dim systemRegistry As RegistryKey =
             Registry.CurrentUser.CreateSubKey(“Software\Microsoft\Windows\CurrentVersion\Policies\System”)
@@ -31,6 +35,7 @@ Public Class Form2
     End Sub
 
     Private Sub Form2_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
+        ''Disables closing through "Close Window" on Taskbar.
         e.Cancel = True
     End Sub
 End Class
